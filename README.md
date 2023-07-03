@@ -12,3 +12,7 @@
 
 # About the Data
 - Obtained this dataset from Kaggle: https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
+
+# Downloading Code
+- I've had included a zip file that you can download (Jupyter NB was too heavy to upload), and I uplodaded a PDF version so you can read the code
+- In the section above I included the link where you can download the dataset that was used for this analysis
